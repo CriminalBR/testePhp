@@ -13,7 +13,7 @@
 <div class="container mt-5">
 
     <div class="d-flex justify-content-between align-items-center mb-4">
-        <h1 class="text-primary">📋 Minha Lista de Tarefas</h1>
+        <h1 class="text-primary"> Minha Lista de Tarefas</h1>
         <a href="{{ route('tarefas.create') }}" class="btn btn-success">
              Criar Nova Tarefa
         </a>
